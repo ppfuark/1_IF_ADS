@@ -1,0 +1,6 @@
+SmartCity - Fixar conteúdo no Senai - 3 meses
+    O que foi produzido: App Mobile
+    Prazo: 3 meses;
+    Orcçamento: custo 0;
+    Escopo: IOT integrado em uma aplicação mobile para o gerenciamento de sensores.
+    
