@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1774393828 source:c:\users\aluno\documents\1_if_ads\cmplgp1\3_24.03\aula_3_24.03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
