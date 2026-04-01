@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1775085782 source:c:\users\aluno\documents\1_if_ads\cmplgp1\bim_test\lembrete_remedios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
